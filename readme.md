@@ -8,7 +8,7 @@
 
 Foi criado com uma é interface visual na qual são exibidas informações para o usuário. normalmente, você cria Windows Forms aplicativos adicionando controles a formulários e desenvolvendo respostas para ações do usuário, com cliques do mouse ou pressionamentos de tecla. Um controle é um elemento de interface do usuário discreto que exibe dados ou aceita entrada de dados.
 
-Quando um usuário executa alguma ação em seu formulário ou em um de seus controles, a ação gera um evento. Seu aplicativo reage a esses eventos com o código e processa os eventos quando eles ocorrem e automaticamente é gravado em um baco de dados alocado em um servidor gratuíto.
+Quando um usuário executa alguma ação em seu formulário ou em um de seus controles, a ação gera um evento. Seu aplicativo reage a esses eventos com o código e processa os eventos quando eles ocorrem e automaticamente é gravado em um baco de dados alocado em um servidor gratuíto. Se trata de uma APi usando o visual stuio como IDE.
 
 ## Por se tratar de um prototipo está sujeito a erros principalmente na conexão com o banco de dados, mais através do documento de explicação mostra o aplicativo rodando.
 </p>
