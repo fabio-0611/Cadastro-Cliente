@@ -4,13 +4,13 @@
 
  
 # Descrição
-<p align="justify">Windows Forms com uma interface do usuário para criar Windows aplicativos de área de trabalho. Ele fornece uma das maneiras mais produtivas de criar aplicativos de área de trabalho com base no designer visual fornecido no Visual Studio. Assim, foi criado um aplicativo com um formulário para cadastro.
+<p align="justify">Windows Forms com uma interface do usuário para criar aplicativos para área de trabalho. Ele fornece uma das maneiras mais produtivas de criar aplicativos de área de trabalho com base no designer visual fornecido no Visual Studio. Assim, foi criado um aplicativo com um formulário para cadastro com duas telas sendo uma de login e outra de cadastro de cliente.
 
-Foi criado com uma é interface visual na qual são exibidas informações para o usuário. normalmente, você cria Windows Forms aplicativos adicionando controles a formulários e desenvolvendo respostas para ações do usuário, como cliques do mouse ou pressionamentos de tecla. Um controle é um elemento de interface do usuário discreto que exibe dados ou aceita entrada de dados.
+Foi criado com uma é interface visual na qual são exibidas informações para o usuário. normalmente, você cria Windows Forms aplicativos adicionando controles a formulários e desenvolvendo respostas para ações do usuário, com cliques do mouse ou pressionamentos de tecla. Um controle é um elemento de interface do usuário discreto que exibe dados ou aceita entrada de dados.
 
 Quando um usuário executa alguma ação em seu formulário ou em um de seus controles, a ação gera um evento. Seu aplicativo reage a esses eventos com o código e processa os eventos quando eles ocorrem e automaticamente é gravado em um baco de dados alocado em um servidor gratuíto.
 
-## Por se tratar de um prototipo está sujeito a erros principalmente na conexão com o banco de dados.
+## Por se tratar de um prototipo está sujeito a erros principalmente na conexão com o banco de dados, mais através do documento de explicação mostra o aplicativo rodando.
 </p>
  
  
@@ -27,7 +27,7 @@ Quando um usuário executa alguma ação em seu formulário ou em um de seus con
  ## Funcionalidades do projeto
 <b><i>
 <img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png" width="20px"/>
-Por se tratar de uma aplicação exe precisa configurar algumas permissões.<i></b>
+Por se tratar de uma aplicação exe precisa configurar algumas permissões na sua máquina.<i></b>
 - `sql10515956`:  Banco de dados MySql no servidor;
 - `cliente`:  Tabela criada no banco;
 - `CadastroCliente pasta`:  Pasta direcionada com todos documentos necessário;
@@ -45,7 +45,7 @@ Por se tratar de uma aplicação exe precisa configurar algumas permissões.<i><
 ## 📁 Acesso ao projeto
 <p align="justify">
 <i>É possível baixar o projeto no próprio github com um arquivo exe executavél.
-Depois de escrever seu aplicativo, você deve enviar o aplicativo aos seus usuários para que eles possam instalá-lo e executá-lo em seus próprios computadores cliente. Um aplicativo de formulários do Windows é aquele que é executado no computador desktop. Um aplicativo de formulários do Windows normalmente terá uma coleção de controles, como rótulos, caixas de texto, caixas de listagem, etc..</i>
+Depois de escrever seu aplicativo, você deve enviar o aplicativo aos seus usuários para que eles possam instalá-lo e executá-lo em seus próprios computadores cliente. Um aplicativo de formulários do Windows é aquele que é executado no computador desktop, normalmente terá uma coleção de controles, como rótulos, caixas de texto, caixas de listagem, etc..</i>
 
 ## 🛠️ Abrir e rodar o projeto
 ## Links
@@ -53,7 +53,7 @@ Depois de escrever seu aplicativo, você deve enviar o aplicativo aos seus usuá
 <p justify-items="center"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="50px">&nbsp
  </P></a>
 
-- <img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png" width="20px"/> Ele mostra uma tela de Login simples, que pode ser acessada pelo usuário. O usuário inserirá as credenciais necessárias e, em seguida, clicará no botão Conectar para prosseguir.
+- <img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png" width="20px"/> Ele mostra uma tela de Login simples, que pode ser acessada pelo usuário. O usuário inserirá as credenciais necessárias e, em seguida, clicará no botão Conectar para prosseguir, através dos comandos abaixo.
 #### usuário: 1234
 #### senha: 1234
 
