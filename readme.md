@@ -1,5 +1,5 @@
 <p align="center">
-<img  src = " https://img.icons8.com/clouds/100/000000/form.png "/>
+<img src="https://img.icons8.com/clouds/100/000000/form.png"width="80px"/>
  <h1 align="center"> Formulário</h1></p>
 
  
@@ -18,7 +18,7 @@ Quando um usuário executa alguma ação em seu formulário ou em um de seus con
  
 * As tecnologias utilizadas:<br>
 <p>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png "width="80px"/>&nbsp
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"width="80px"/>&nbsp
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"width="80px"/>&nbsp
 <img src="https://img.icons8.com/color/48/000000/visual-studio--v1.png"width="80px"/>
 </p>
